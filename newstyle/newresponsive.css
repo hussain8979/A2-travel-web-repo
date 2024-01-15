@@ -1,4 +1,48 @@
+/*  margin-left: 135px;
+}*{ */
 body{
     font-family: 'Mulish', sans-serif;
-    background-color: aquamarine;
+}
+/* start-header-section */
+
+/* start-nave */
+.img-name-a{
+    display:flex;
+    gap: 16px;
+    margin-left: 365px;
+    margin-top: 50px;
+    margin-bottom: 35px;
+    /* justify-content: space-around; */
+    
+}
+.img-style{
+    width: 48px;
+    height: 56px;
+    padding-top: 20px;
+
+}
+.name-style{
+    color: #131318;
+    font-size: 2.1rem;
+    font-weight: 800;
+}
+.name-color-style{
+    color: #FF5400;
+    font-size: 2.1rem;
+    font-weight: 800;
+}
+/* start-banner-section */
+
+.banner-img-text-input-button{
+    background-image: url(../Images/group1311.png);
+    background-repeat: no-repeat;
+    width: 1170px;
+    height: 500px; 
+    background-size: 100%;
+    margin-left: 135px;
+    text-align: center;
+    margin: auto;
+    background-size: 100%;
+    
+
 }
