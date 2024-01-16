@@ -258,6 +258,133 @@ body{
     font-size: 1rem;
     font-weight: 400;
 }
+/* start-last-section */
+.last-section-main{
+    display: flex;
+    gap: 24px;
+    margin-left: 300px;
+    margin-top: 90px;
+   
+}
+.input-box{
+    width: 474px;
+    height: 330px;
+    border-radius: 16px;
+    border: 1px solid #FF5400;
+    padding: 40px;
+    
+}
+.last-title-h3{
+    color: #131318;
+    font-size: 1.5rem;
+    font-weight: 800;
+
+}
+.last-section-normal-text{
+    width: 350px;
+    color: #5A5A5D;
+    font-size: 1rem;
+    font-weight: 400;
+}
+.input{
+    width: 250px;
+    height: 30px;
+    border-radius: 5px;
+    background: rgba(19, 19, 24, 0.05);
+    padding-left: 20px ;
+    border-style: none;
+    outline: none;
+    color: rgba(19, 19, 24, 0.30);
+    font-size: 1rem;
+    font-weight: 400;
+}
+.margin-bottom{
+    margin-bottom: 16px;
+}
+.submit-button-style{
+    width: 275px;
+    height: 35px;
+    border-radius: 5px;
+    background: #FF5400;
+    margin-top: 16px;
+    padding-left: 5px;
+    padding-right: 5px;
+    border-style: none;
+    outline: none;
+
+
+
+}
+.Subscribe-style{
+    color: #FFF;
+    font-size: 1.1rem;
+    font-weight: 700;
+}
+
+
+/* start-footer-section */
+.footer-section{
+    width: 100%;
+    height: 100%;
+    background: rgba(19, 19, 24, 0.05);
+    text-align: center;
+    margin-top: 90px;
+    padding-bottom: 32px;
+
+
+}
+.last-icon-text-p{
+    width: 769px;
+    color: #5A5A5D;
+    font-size: 1rem;
+    font-weight: 400;
+    text-align: center;
+    margin: auto;
+}
+.all-text-icon-style{
+    display: inline-flex;
+    padding-top: 20px;
+    gap: 16px;
+    text-align: center;
+    margin: auto;
+}
+.last-img-design{
+    margin-top: 20px;
+}
+.icon-design{
+    margin-top: 30px;
+   
+}
+.last-icon{
+    width: 40px;
+    height: 40px;
+    padding: 10px;
+}
+hr{
+    width: 872px;
+    height: 1px;
+    background: rgba(19, 19, 24, 0.10);
+
+}
+.end-footer{
+    color: #131318;
+    font-size: 1rem;
+    font-weight: 300;
+}
+
+
+/*start-responsive-section */
+
+    
+@media screen  and (max-width:600px){
+  
+       *{
+        margin-left: 0%;
+       }
+
+    }
+    
+
 
 
 
