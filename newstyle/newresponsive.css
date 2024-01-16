@@ -43,6 +43,46 @@ body{
     text-align: center;
     margin: auto;
     background-size: 100%;
-    
+}
+.container-center{
+    padding-top: 100px;
+}
+.banner-h1-text-style{
+    color: #FFF;
+    font-size: 4rem;
+    font-weight: 800;
+    margin-bottom: 0%;
+}
+.banner-p-text-style{
+    width: 676px;
+    color: #FFF;
+    font-size: 1rem ;
+    font-weight: 400;
+    display: inline-flex;
+    margin-top: 24px;
+    margin-bottom: 0%;
+}
+.button-icon{
+   display: inline-flex;
+   background-color:#FF5400 ;
+   border-style: none;
+   width: 174px;
+   height: 52px;
+   align-items: center;
+   padding-left: 35px;
+   border-radius: 8px;
+   margin-top: 48px;
 
 }
+.icon{
+    width: 24px;
+    height: 24px; 
+   
+}
+.button-text{
+  margin-top: 5px;
+  color: #FFF;
+  font-size: 1rem;
+  font-weight: 700;
+}
+
